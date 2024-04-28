@@ -9,7 +9,7 @@ import instagram from "./instagram.svg";
 import amiante from "./amiante.svg";
 import linkedin from "./linkedin.svg";
 import twitter from "./twitter.svg";
-import final from "./final.png";
+import final from "./final.svg";
 import bug from "./bug.svg";
 import lead from "./lead.svg";
 
