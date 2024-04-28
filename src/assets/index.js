@@ -27,5 +27,4 @@ export {
   instagram,
   linkedin,
   twitter,
-  final,
 };
