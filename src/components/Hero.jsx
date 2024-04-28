@@ -1,6 +1,6 @@
 import styles from "../style";
 import GetStarted from "./GetStarted";
-import final from "../assets/final.png";
+import { final } from "../assets";
 
 const Hero = () => {
   return (
